@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @julai1433
 - 👀 I’m interested in cool ideas
-- 🌱 I’m currently working on an automotive embedded software project. 
+- 🌱 I’ve worked on automotive embedded software, and currently working on python automation cybersecurity tools.
 - 💞️ I’m looking to collaborate on something that improves people's life,
 - 📫 How to reach me: julai1433@gmail.com
 
